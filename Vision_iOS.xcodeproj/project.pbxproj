@@ -317,6 +317,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QZQ8W9VH7K;
 				INFOPLIST_FILE = Vision_iOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Nick.Vision-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -332,6 +333,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QZQ8W9VH7K;
 				INFOPLIST_FILE = Vision_iOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Nick.Vision-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
