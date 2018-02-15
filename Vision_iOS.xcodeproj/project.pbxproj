@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7D1BAB07202C8EEF0078A662 /* SqueezeNet.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 7D1BAB06202C8EEF0078A662 /* SqueezeNet.mlmodel */; };
+		7D7B3A94203563E800DD2D35 /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 7D7B3A93203563E800DD2D35 /* Inceptionv3.mlmodel */; };
 		7DD6065F202B482400E87FDF /* RoundedShadowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DD6065E202B482400E87FDF /* RoundedShadowView.swift */; };
 		7DD60661202B49AC00E87FDF /* RoundedShadowButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DD60660202B49AC00E87FDF /* RoundedShadowButton.swift */; };
 		7DD60663202B4A2000E87FDF /* RoundedShadowImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DD60662202B4A2000E87FDF /* RoundedShadowImageView.swift */; };
@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7D1BAB06202C8EEF0078A662 /* SqueezeNet.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SqueezeNet.mlmodel; sourceTree = "<group>"; };
+		7D7B3A93203563E800DD2D35 /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = "<group>"; };
 		7DD6065E202B482400E87FDF /* RoundedShadowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedShadowView.swift; sourceTree = "<group>"; };
 		7DD60660202B49AC00E87FDF /* RoundedShadowButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedShadowButton.swift; sourceTree = "<group>"; };
 		7DD60662202B4A2000E87FDF /* RoundedShadowImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedShadowImageView.swift; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		7DE20D2420275E6C004843C4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				7D1BAB06202C8EEF0078A662 /* SqueezeNet.mlmodel */,
+				7D7B3A93203563E800DD2D35 /* Inceptionv3.mlmodel */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -173,11 +173,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				7DE20D1320275E36004843C4 /* CameraVC.swift in Sources */,
-				7D1BAB07202C8EEF0078A662 /* SqueezeNet.mlmodel in Sources */,
 				7DE20D1120275E36004843C4 /* AppDelegate.swift in Sources */,
 				7DD6065F202B482400E87FDF /* RoundedShadowView.swift in Sources */,
 				7DD60661202B49AC00E87FDF /* RoundedShadowButton.swift in Sources */,
 				7DD60663202B4A2000E87FDF /* RoundedShadowImageView.swift in Sources */,
+				7D7B3A94203563E800DD2D35 /* Inceptionv3.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
